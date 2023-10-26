@@ -5,6 +5,7 @@ The Gym Management System is a web-based application developed in PHP and MySQLi
 
 ## Features
 
+The Gym Management System offers the following key features:
 
 - **Membership Management:** Easily add, edit, and delete member information, including personal details and contact information.
 
